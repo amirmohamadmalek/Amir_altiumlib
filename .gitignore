@@ -1,0 +1,8 @@
+*.PrjPcbStructure
+*.PrjPCB
+*.SchDoc
+*.PcbDoc
+*.annotation
+*.~*
+History/
+__Previews/
